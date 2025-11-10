@@ -1,7 +1,7 @@
 # <div align="center">👋 Hello, I'm Asmita Jha </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A275E3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+Designer;Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A275E3&center=true&vCenter=true&width=500&lines=Data+Scientist;Problem+Solver;Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" />
